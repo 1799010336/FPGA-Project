@@ -1,2 +1,2 @@
 # FPGA-Project
-# p
+# the project of EE221:ELectronic Technique Experiment
