@@ -1,2 +1,2 @@
-# FPGA-Project
-# the project of EE221:ELectronic Technique Experiment
+# FPGA-Project: A Naive Calculator
+the project of EE221:ELectronic Technique Experiment
